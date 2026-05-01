@@ -76,7 +76,7 @@ I'm a Commerce & Computer Science student at Queen’s University focused on dat
 ## Technical Skills
 
 **Languages:**
-Python, SQL, R
+Python, C++, SQL, R
 
 **Data & Machine Learning:**
 pandas, scikit-learn, TF-IDF, classification, clustering, regression, model evaluation
