@@ -1,78 +1,93 @@
 # Hello, my name is Jackson
 
-I'm a Commerce & Computer Science student at Queen’s University with a strong interest in data analytics, machine learning, and applying technical solutions to real business problems.
-
-My work focuses on turning data into actionable insights, whether that’s building models, creating dashboards, or developing end-to-end analytics workflows.
+I'm a Commerce & Computer Science student at Queen’s University focused on data analytics and machine learning. I enjoy working with real-world datasets to uncover insights, build predictive models, and support data-driven decision-making.
 
 ---
 
 ## What I’m Working On
 
-- Building end-to-end data and machine learning projects
-- Applying NLP techniques to real-world datasets
-- Developing my GitHub portfolio with practical, business-focused work
+- Developing end-to-end analytics workflows (data cleaning → modeling → insights)
+- Applying machine learning and NLP to real-world business problems
+- Building a portfolio of projects focused on decision-making impact
 
 ---
 
 ## Featured Projects
 
-### Ski Resort Review NLP Pipeline – Batawa Ski Hill [View Project](https://github.com/jacksonlouws/ski-reviews-sentiment-analysis)
+### Ski Resort Review NLP Pipeline – Batawa Ski Hill
+[View Project](https://github.com/jacksonlouws/ski-resort-review-sentiment-analysis)
 
-- Built an end-to-end NLP pipeline combining TF-IDF + Logistic Regression, LDA topic modeling, and AWS BlazingText  
-- Identified model bias toward positive sentiment and improved performance through threshold tuning  
-- Extracted key themes from customer reviews to uncover recurring operational issues  
-- Focused on surfacing negative feedback to support real-world business decisions  
+- Built a text preprocessing pipeline (tokenization, stopword removal, lemmatization) to clean and standardize 18,000+ ski resort reviews
+- Engineered TF-IDF features and trained a Logistic Regression model, evaluating performance using precision, recall, F1-score, and confusion matrices
+- Identified class imbalance and improved negative sentiment detection by tuning the classification threshold, producing more reliable model outputs
 
-### Fraud Detection Model (KNIME) (Upload In Progress)
-- Built and evaluated multiple classification models to detect fraudulent insurance claims  
-- Selected Gradient Boosted Trees as the top-performing model (F2 = 0.828, 87.5% accuracy)  
-- Optimized investigation strategy to generate ~$2.5M in estimated cost savings  
+---
 
-### Construction Cost Prediction – Limestone School Board (Upload In Progress)
-- Developed regression models to predict infrastructure project costs using historical data  
-- Improved budget allocation decisions across large-scale capital projects  
-- Addressed real-world challenges such as cost overruns and data limitations  
+## Additional Projects (Completed – Working on Upload)
 
-### Customer Segmentation for Winery (K-Means) (Upload In Progress)
-- Applied K-Means clustering to segment customers based on demographics and spending behavior  
-- Identified three distinct customer groups with actionable marketing strategies  
-- Translated clustering results into business-focused recommendations  
+### Fraud Detection Model (KNIME)
 
-### Fashion Image Classification (CNN) (Upload In Progress)
-- Built a convolutional neural network for image classification tasks  
-- Applied preprocessing and model tuning to improve performance  
-- Explored deep learning techniques for computer vision applications  
+- Built and compared classification models (Decision Trees, Random Forest, Gradient Boosted Trees) on structured insurance claims data
+- Evaluated models using precision, recall, and F2-score to prioritize detection of fraudulent cases
+- Selected Gradient Boosted Trees as the final model (F2 = 0.828) based on performance and alignment with business objectives
 
-### Healthcare Appointment Booking System (Upload In Progress)
-- Designed and built a web-based scheduling system using HTML, CSS, and JavaScript  
-- Implemented validation, filtering, and conflict prevention for appointment booking  
-- Focused on improving operational efficiency and user experience  
+---
+
+### Basketball Analytics Project – Oklahoma City Thunder (RStudio)
+
+- Collected and analyzed player-level and team-level performance data using R
+- Performed exploratory data analysis on metrics such as scoring efficiency, shot selection, and usage rates
+- Developed comparative insights to evaluate player impact and support lineup and performance decisions
+
+---
+
+### Construction Cost Prediction – Limestone School Board
+
+- Cleaned and structured multi-source project data, handling missing values and inconsistent cost entries
+- Engineered features such as project duration and budget variance to improve model inputs
+- Built regression models and evaluated performance using RMSE and R² to support cost forecasting
+
+---
+
+### Customer Segmentation for Winery (K-Means)
+
+- Preprocessed and scaled customer data to prepare for clustering analysis
+- Applied K-Means clustering and used the elbow method to determine the optimal number of segments
+- Interpreted cluster characteristics and translated results into targeted marketing strategies
+
+---
+
+### Fashion Image Classification (CNN)
+
+- Built and trained a convolutional neural network using PyTorch for multi-class image classification
+- Preprocessed image data and tuned hyperparameters to improve model performance
+- Evaluated model accuracy and analyzed misclassification patterns to identify areas for improvement
+
+---
+
+### Healthcare Appointment Booking System
+
+- Designed and implemented a scheduling system with input validation and conflict prevention logic
+- Structured data handling to ensure consistency and reliability of appointment bookings
+- Developed a user-focused interface to improve usability and operational efficiency
 
 ---
 
 ## Technical Skills
 
-**Languages:**  
-Python, SQL, R  
+**Languages:**
+Python, SQL, R
 
-**Data & ML:**  
-pandas, scikit-learn, TF-IDF, classification & clustering models  
+**Data & Machine Learning:**
+pandas, scikit-learn, TF-IDF, classification, clustering, regression, model evaluation
 
-**Tools:**  
-Power BI (Dax), Excel (Power Query), Jupyter, AWS (SageMaker), Git  
+**Tools:**
+Power BI (DAX), Excel (Power Query), Jupyter Notebook, AWS SageMaker, Git, KNIME
 
 ---
 
 ## Interests
 
-- Data Analytics & Machine Learning  
-- Business Strategy & Decision-Making  
-- Sports Analytics  
-- Building practical, real-world projects  
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/jacksonlouws
-- Email: jacksonlouws@gmail.com
+- Data Analytics & Machine Learning
+- Business Strategy & Decision-Making
+- Sports Analytics
