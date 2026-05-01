@@ -16,7 +16,8 @@ My work focuses on turning data into actionable insights, whether that’s build
 
 ## Featured Projects
 
-### Ski Resort Review NLP Pipeline – Batawa Ski Hill (Uploaded)
+### Ski Resort Review NLP Pipeline – Batawa Ski Hill [View Project](https://github.com/jacksonlouws/ski-reviews-sentiment-analysis)
+
 - Built an end-to-end NLP pipeline combining TF-IDF + Logistic Regression, LDA topic modeling, and AWS BlazingText  
 - Identified model bias toward positive sentiment and improved performance through threshold tuning  
 - Extracted key themes from customer reviews to uncover recurring operational issues  
